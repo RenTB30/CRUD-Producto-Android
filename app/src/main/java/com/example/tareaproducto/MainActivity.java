@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         if(idprod > 0){
             Producto model = productoDAO.buscarProductoPorID(idprod);
             edtNombre.setText(model.getNombre());
-            edtStock.setText(model.getStock());
+            edtStock.setText(model.getStock().toString());
             edtPrecio.setText(model.getPrecio().toString());
             setTitle("Actualizar Producto");
         }
