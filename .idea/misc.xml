@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/TareaProducto/app/src/main/res/layout/activity_listado_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/TareaProducto/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/TareaProducto/app/src/main/res/layout/item_producto.xml" value="0.33" />
+        <entry key="..\:/Users/alum.fial7/AndroidStudioProjects/TareaProducto/app/src/main/res/menu/options.xml" value="0.28425925925925927" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/layout/activity_listado_producto.xml" value="0.14130434782608695" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/layout/activity_listado_usuario.xml" value="0.14130434782608695" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/layout/content_list_producto.xml" value="0.14130434782608695" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/layout/item_producto.xml" value="0.14130434782608695" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/layout/productos.xml" value="0.14130434782608695" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/menu/menu_options_listado.xml" value="0.1796875" />
+        <entry key="..\:/renzo/ProyectosCursoMovilesUpeu/java-kotlin/TareaProducto/app/src/main/res/menu/options.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

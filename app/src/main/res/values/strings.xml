@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TareaProducto</string>
+
+    <!-- validacion -->
+    <string name="validaNombre">Nombre Obligatorio</string>
+    <string name="validaStock">Stock Obligatorio</string>
+    <string name="validaPrecio">Precio Obligatorio</string>
+
+
+    <!-- Mensajes -->
+    <string name="msg_producto_guardado">Registro Guardado..!</string>
+    <string name="msg_producto_modificado">Registro Modificado..!</string>
+    <string name="msg_producto_eliminado">Registro Eliminado..!</string>
+    <string name="msg_producto_error">Error al guardar!</string>
+
+</resources>
